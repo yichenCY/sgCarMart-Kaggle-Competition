@@ -25,7 +25,7 @@ Missing Value; Duplicates; Outlier;
 
 # Task 2 
 1. Design for new customer: This recommendation system can do recommendation for new customers by implementing popular-based engines.
-2. Create Customer Profile: This recommendation system can remember customers browsing history and make recommendations accord- ingly.
+2. Create Customer Profile: This recommendation system can remember customers' browsing history and make recommendations based on item-item similarities
 3. Prevent Overspecialization: This recommendation system can prevent overspecializa- tion by adding some Popular item into the recommenda- tion system.
 4. Prevent Repeating: Prevent to recommend the same item that has been clicked by the customer.
 5. Robustness: The recommendation system can adjust the recommended items based on the accumulated browsing history.
