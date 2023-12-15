@@ -23,6 +23,7 @@ Missing Value; Duplicates; Outlier;
 1. Baseline Model: XGboost
 2. Other Models: LightGBM and CatBoost.
 
+Instructions 
 - Data Preprocess: Run "Feature engineering.ipynb"
 - Model Selections: Run"Pycaret Models.ipynb" --> Utilize the Pycaret package to test the different models with their default parameters on the training set and the results. The results show that CatBoost was the best, followed by LightGBM and finally XGBoost
 - XGBoost model tunning: Run "train_xgb.ipynb" --> Utilize the GridSearchCV package to find the best parameters of the XGBoost Model.
